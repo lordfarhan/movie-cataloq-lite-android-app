@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Cataloq Lite</string>
+    <string name="movie_title">Movie</string>
+    <string name="movie_rating">Rating</string>
+    <string name="movie_rating_format">%.1f (%d Reviewers)</string>
+    <string name="movie_cover">Cover</string>
+    <string name="movie_reviewers">Reviewers</string>
+
+    <string name="success_title">Success</string>
+    <string name="success_message">Congratulation, successfully fetched movie data.</string>
+    <string name="error_title">Upps...</string>
+    <string name="error_message">something unexpected happened. error: %s.</string>
+
+    <string name="action_ok">Okay</string>
+    <string name="action_back">Back</string>
+    <string name="action_try_again">Try Again</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_status">Status</string>
+    <string name="movie_release_date">Release Date</string>
+</resources>
